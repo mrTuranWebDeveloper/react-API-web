@@ -1,0 +1,12 @@
+.search-box{
+    border: none;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.search-box:focus{
+    outline: auto;
+}
